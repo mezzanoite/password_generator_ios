@@ -14,6 +14,7 @@
 		ACD907F82050A4E600CFB615 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACD907F62050A4E600CFB615 /* LaunchScreen.storyboard */; };
 		ACD908002050BEB000CFB615 /* PasswordsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD907FF2050BEB000CFB615 /* PasswordsViewController.swift */; };
 		ACD908022050C6A000CFB615 /* PasswordGenerator.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD908012050C6A000CFB615 /* PasswordGenerator.swift */; };
+		ACD908042050D2A200CFB615 /* TipsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACD908032050D2A200CFB615 /* TipsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		ACD907F92050A4E600CFB615 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ACD907FF2050BEB000CFB615 /* PasswordsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordsViewController.swift; sourceTree = "<group>"; };
 		ACD908012050C6A000CFB615 /* PasswordGenerator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PasswordGenerator.swift; sourceTree = "<group>"; };
+		ACD908032050D2A200CFB615 /* TipsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				ACD907F92050A4E600CFB615 /* Info.plist */,
 				ACD907FF2050BEB000CFB615 /* PasswordsViewController.swift */,
 				ACD908012050C6A000CFB615 /* PasswordGenerator.swift */,
+				ACD908032050D2A200CFB615 /* TipsViewController.swift */,
 			);
 			path = SuperSenha;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ACD908022050C6A000CFB615 /* PasswordGenerator.swift in Sources */,
+				ACD908042050D2A200CFB615 /* TipsViewController.swift in Sources */,
 				ACD907F02050A4E600CFB615 /* ViewController.swift in Sources */,
 				ACD908002050BEB000CFB615 /* PasswordsViewController.swift in Sources */,
 				ACD907EE2050A4E600CFB615 /* AppDelegate.swift in Sources */,
